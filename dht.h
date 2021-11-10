@@ -1,5 +1,5 @@
-#ifndef DHT_H
-#define DHT_H
+#ifndef DHT_H_
+#define DHT_H_
 
 
 void dht_init( void );
